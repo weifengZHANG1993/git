@@ -1,4 +1,3 @@
-	private String typeId;
 package cn.com.entity;
 
 public class Book {
